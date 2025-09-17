@@ -2,8 +2,8 @@
 
 ## Subscribe to my blog
 
-'''
+```
 javascript
 console.log('hello world!');
 
-'''
+```
